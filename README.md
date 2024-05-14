@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Data Analysis and Visualisation**
 
-- 📄 Knoabout my experiences [here](https://www.linkedin.com/in/ajay-vishnu/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/ajay-vishnu/)
 
 - ⚡ Fun fact **I can go hours talking about art and football**
 
@@ -34,10 +34,3 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a> <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="40" height="40"/> </a> 
 <a> <img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="powerbi" width="40" height="40"/> </a> 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeyvishnu&show_icons=true&locale=en&layout=compact" alt="ajeyvishnu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeyvishnu&show_icons=true&locale=en" alt="ajeyvishnu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeyvishnu&" alt="ajeyvishnu" /></p>
